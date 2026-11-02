@@ -10,7 +10,9 @@
 
 Reference implementations for the paired [`agentic-safety-engineer-learning`](https://github.com/ai-governance-curriculum/agentic-safety-engineer-learning) track.
 
-> **Status**: scaffolded by `aicg org bootstrap-role`. Module and project solutions arrive over subsequent autonomous cycles.
+**Role level:** 40 (senior technical specialist — AI Governance family)
+
+> **Status**: paired learning-track curriculum plan seeded (12 modules / 3 projects; see [`../agentic-safety-engineer-learning/CURRICULUM.md`](https://github.com/ai-governance-curriculum/agentic-safety-engineer-learning/blob/main/CURRICULUM.md)). Module and project solutions arrive over subsequent autonomous cycles.
 
 ## Layout
 
